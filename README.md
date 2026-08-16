@@ -40,4 +40,4 @@ Python · Pandas · NumPy · Matplotlib · Seaborn · wfdb
 ```
 3. Download the [MIT-BIH Arrhythmia Database](https://physionet.org/content/mitdb/1.0.0/) 
    and place it in a `data/` folder inside the repo
-4. Open and run `ecg_arrhythmia_analys.ipynb` in Jupyter
+4. Open and run `ecg_arrhythmia_analysis.ipynb` in Jupyter
